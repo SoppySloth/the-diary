@@ -2,7 +2,7 @@
 title: "Philippines"
 date: 2023-12-13T21:17:40+01:00
 weight: 0
-albumthumb: ""
+albumthumb: "/thumbnails/philippines-thumb.jpeg"
 draft: false
 ## Optional additional meta info for resources list
 #  alt: Image alternative and screen-reader text
