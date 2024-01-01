@@ -1,5 +1,5 @@
 ---
-title: "Snakebite Photos"
+title: "Snakebite"
 date: 2023-12-10T18:24:02+01:00
 weight: 0
 albumthumb: "thumbnails/snake-thumb.jpg"
@@ -11,6 +11,8 @@ draft: false
 resources:
 - src: "snakebite-photos/pete-beach.jpeg"
   weight: 10
+  phototitle: "Finally reaching the beach"
+  description: "After 3 long hours we finally reached the beach where Pete could be taken to hospital by the Coast Guards"
 - src: "snakebite-photos/pete-hospital.jpg"
   weight: 20
 ---
