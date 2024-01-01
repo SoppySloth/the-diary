@@ -11,7 +11,7 @@ draft: false
 resources:
 - src: "snakebite-photos/pete-beach.jpeg"
   weight: 10
-  phototitle: "Finally reaching the beach"
+  phototitle: "The final stop for me"
   description: "After 3 long hours we finally reached the beach where Pete could be taken to hospital by the Coast Guards"
 - src: "snakebite-photos/pete-hospital.jpg"
   weight: 20
