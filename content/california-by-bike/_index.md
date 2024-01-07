@@ -3,7 +3,7 @@ title: "California by Bike"
 date: 2023-12-10T19:06:17+01:00
 weight: 0
 albumthumb: "thumbnails/bikes-thumb.jpeg"
-draft: true
+draft: false
 ## Optional additional meta info for resources list
 #  alt: Image alternative and screen-reader text
 #  phototitle: A title for the photo
