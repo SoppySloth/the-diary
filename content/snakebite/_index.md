@@ -1,5 +1,5 @@
 ---
-title: "_Index1"
+title: "Snakebite"
 date: 2024-01-07T16:20:19+01:00
 weight: 0
 albumthumb: "snakebite/snake-thumb.jpeg"
