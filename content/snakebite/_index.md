@@ -20,6 +20,6 @@ resources:
 - src: "snakebite/outside-hospital.jpeg"
   weight: 50
 - src: "snakebite/pete-beach.jpeg"
-  description: Pete is being carried by the Coast Guard before being taken to the hospital by boat.
+  title: Pete is being carried by the Coast Guard before being taken to the hospital by boat.
   weight: 60
 ---
