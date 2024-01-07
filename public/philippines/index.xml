@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Adventures of JACK MAN</title>
-    <link>/</link>
-    <description>Recent content on The Adventures of JACK MAN</description>
+    <title>Philippines on The Adventures of JACK MAN</title>
+    <link>/philippines/</link>
+    <description>Recent content in Philippines on The Adventures of JACK MAN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Dec 2023 21:17:40 +0100</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/philippines/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
