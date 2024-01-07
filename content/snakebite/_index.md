@@ -10,9 +10,9 @@ draft: false
 #  description: A sub-title or description for the photo
 resources:
 - src: "snakebite-photos/pete-beach.jpeg"
-  weight: 10
   phototitle: "The final stop for me"
   description: "After 3 long hours we finally reached the beach where Pete could be taken to hospital by the Coast Guards"
+  weight: 10
 - src: "snakebite-photos/pete-hospital.jpg"
   weight: 20
 ---
