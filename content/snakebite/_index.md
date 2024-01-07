@@ -2,7 +2,7 @@
 title: "Snakebite"
 date: 2024-01-07T16:20:19+01:00
 weight: 0
-albumthumb: "snakebite/snake-thumb.jpeg"
+albumthumb: "/thumbnails/snake-thumb.jpeg"
 draft: false
 ## Optional additional meta info for resources list
 #  alt: Image alternative and screen-reader text
